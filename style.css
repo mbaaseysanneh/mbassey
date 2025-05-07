@@ -49,3 +49,6 @@ p{
     font-size: 24px;
     font-family: 'Courier New', Courier, monospaces;
 }
+#first strong{
+    font-weight: 900;
+}
